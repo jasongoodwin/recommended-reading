@@ -27,7 +27,7 @@ These articles are tremendously useful for understanding how different technolog
 ### Don't Use Actors for Concurrency
 https://www.chrisstucchio.com/blog/2013/actors_vs_futures.html
 
-While I don't 100% agree with this, I do believe this is a good rule of thumb
+I do believe this is a good rule of thumb, but see also Extra and Cameo pattern as I don't always agree.
 
 ### Extra and Cameo Pattern
 http://www.slideshare.net/shinolajla/effective-akka-scalaio
