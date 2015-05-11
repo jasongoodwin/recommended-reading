@@ -27,6 +27,11 @@ https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.h
 
 CAP is a very important concept to understand in distributed computing. It's also important to understand its limits. This article gives a good introduction to help you understand CAP.
 
+### Amazon's Dynamo Paper
+http://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf
+
+This paper describes the Amazon Dynamo DB and how it handles distributing data across nodes and gossiping changes to a cluster's topology. Cassandra would be an example of an datastore that is heavily influenced by the Dynamo paper.
+
 ### Aphyr Jepsen Series 
 https://aphyr.com/tags/jepsen
 
