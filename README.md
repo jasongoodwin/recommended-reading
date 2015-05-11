@@ -22,6 +22,11 @@ http://dannorth.net/introducing-bdd/
 This is an important article in my opinion - a lot of developers working with xUnit will tend to call their tests "testSomething." Starting your test names with "should" helps to direct people to focusing on the behavior.
 
 # Distributed Computing
+### CAP Theorem
+https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html
+
+CAP is a very important concept to understand in distributed computing. It's also important to understand its limits. This article gives a good introduction to help you understand CAP.
+
 ### Aphyr Jepsen Series 
 https://aphyr.com/tags/jepsen
 
