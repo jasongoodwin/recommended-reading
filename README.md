@@ -25,7 +25,7 @@ This is an important article in my opinion - a lot of developers working with xU
 ### Aphyr Jepsen Series 
 https://aphyr.com/tags/jepsen
 
-These articles are tremendously useful for understanding how different technologies deal with network partitions. I would keep this close by if you're clustering any datastore etc.
+These articles are tremendously useful for understanding how different technologies deal with (or moreso fail to deal with) network partitions. I would keep this close by if you're clustering most anything.
 
 # Scala/Akka
 
