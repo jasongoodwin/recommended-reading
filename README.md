@@ -4,7 +4,7 @@ A place to store articles etc that I feel contain important information.
 # General Software Development 
 
 These are general articles that I would encourage engineers working beside me to know about and to understand.
-## References
+## Useful References
 ###SourceMaking 
 https://sourcemaking.com/
 An online reference covering several important books. It has a summary of Martin Fowler's Refactoring (Code Smells, Refactorings etc) and the Gang Of Four's Design Patterns. It also has a simple UML reference.
