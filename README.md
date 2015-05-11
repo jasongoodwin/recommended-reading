@@ -37,6 +37,11 @@ https://aphyr.com/tags/jepsen
 
 These articles are tremendously useful for understanding how different technologies deal with (or moreso fail to deal with) network partitions. I would keep this close by if you're clustering most anything.
 
+### Reactive Streams Presentation from Roland Khun
+http://www.typesafe.com/resources/video/introducing-reactive-streams
+
+This is a good overview of Reactive Streams and asynchronous non-blockind "back-pressure." Push based distributed systems can potentially overwhelm services, causing messages to be dropped or nodes could crash. Back-pressure allows us to pull messages as a service is able to handle the messages instead of overwhelming downstream systems. 
+
 # Scala/Akka
 
 ### Don't Use Actors for Concurrency
