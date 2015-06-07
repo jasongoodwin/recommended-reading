@@ -27,6 +27,12 @@ https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.h
 
 CAP is a very important concept to understand in distributed computing. It's also important to understand its limits. This article gives a good introduction to help you understand CAP.
 
+### A comprehensive study of Convergent and Commutative
+Replicated Data Types
+http://hal.upmc.fr/inria-00555588/document
+
+This paper discusses a principled type for using in eventually consistent systems. 
+
 ### Amazon's Dynamo Paper
 http://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf
 
