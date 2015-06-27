@@ -21,6 +21,13 @@ http://dannorth.net/introducing-bdd/
 
 This is an important article in my opinion - a lot of developers working with xUnit will tend to call their tests "testSomething." Starting your test names with "should" helps to direct people to focusing on the behavior.
 
+# Multicore Computing, Scaling Up
+
+### 1024 Cores
+http://www.1024cores.net/
+
+This is an excellent blog to get you started. The general recipe is good to understand.
+
 # Distributed Computing
 ### CAP Theorem
 https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html
