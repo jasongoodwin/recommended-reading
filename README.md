@@ -24,8 +24,11 @@ This is an important article in my opinion - a lot of developers working with xU
 ### Post Mortems
 I thought this was a really good read. Both the articles, and the comments.
 Worth stewing with this for a bit.
+
 Article: http://danluu.com/postmortem-lessons/
+
 Comments: https://news.ycombinator.com/item?id=10090806
+
 PostMortems: https://pinboard.in/u:peakscale/t:postmortem/
 
 # Multicore Computing, Scaling Up
