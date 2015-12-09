@@ -65,6 +65,11 @@ http://www.typesafe.com/resources/video/introducing-reactive-streams
 
 This is a good overview of Reactive Streams and asynchronous non-blockind "back-pressure." Push based distributed systems can potentially overwhelm services, causing messages to be dropped or nodes could crash. Back-pressure allows us to pull messages as a service is able to handle the messages instead of overwhelming downstream systems. 
 
+### WHAT WE TALK ABOUT WHEN WE TALK ABOUT DISTRIBUTED SYSTEMS
+http://videlalvaro.github.io/2015/12/learning-about-distributed-systems.html
+
+Overview of concepts.
+
 # Scala/Akka
 
 ### Don't Use Actors for Concurrency
