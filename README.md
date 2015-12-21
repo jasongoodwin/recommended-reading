@@ -82,6 +82,8 @@ http://www.slideshare.net/shinolajla/effective-akka-scalaio
 
 I don't 100% agree with the "Don't use Actors for Concurrency." Jamie Allen writes about the Extra and Cameo patterns in his book "Effective Akka" - if you're collecting together data from multiple datasources, actors can be used to produce cleaner solutions without Ask/Futures - these patterns produce better solutions than futures alone and get rid of timeout stacktraces in your logs. These slides cover the patterns or grab a copy of the book. 
 
+Note also that there is a great simplified actor dsl for temporary actors! http://doc.akka.io/docs/akka/snapshot/scala/actordsl.html
+
 ## Tools and Stuff
 Scala-based load testing tool 
 http://gatling.io/
