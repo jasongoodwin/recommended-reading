@@ -70,6 +70,10 @@ http://videlalvaro.github.io/2015/12/learning-about-distributed-systems.html
 
 Overview of concepts.
 
+### Distributed Locks
+http://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html
+Discussion about fencing, redlock etc. Thought it was nice.
+
 # Scala/Akka
 
 ### Don't Use Actors for Concurrency
