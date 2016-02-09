@@ -72,7 +72,9 @@ Overview of concepts.
 
 ### Distributed Locks
 http://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html
-Discussion about fencing, redlock etc. Thought it was nice.
+Discussion about fencing, redlock etc. Thought it was a nice discussion of issues related to lock expiry.
+Salvatore responded 
+http://antirez.com/news/101
 
 # Scala/Akka
 
