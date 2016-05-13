@@ -50,7 +50,7 @@ http://hal.upmc.fr/inria-00555588/document
 
 This paper discusses a principled type for using in eventually consistent systems. 
 
-### Amazon's Dynamo Paper
+### Papers
 http://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf
 
 This paper describes the Amazon Dynamo DB and how it handles distributing data across nodes and gossiping changes to a cluster's topology. Cassandra would be an example of an datastore that is heavily influenced by the Dynamo paper.
@@ -100,3 +100,8 @@ Self paced SICP: http://www.cs61as.org/index.html
 # OPS
 Timekeeping in VMs
 http://www.vmware.com/files/pdf/Timekeeping-In-VirtualMachines.pdf
+
+# My Read List
+has a bunch of references to look through/curate
+http://the-paper-trail.org/blog/distributed-systems-theory-for-the-distributed-systems-engineer/
+http://book.mixu.net/distsys/
