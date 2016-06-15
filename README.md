@@ -101,7 +101,11 @@ Self paced SICP: http://www.cs61as.org/index.html
 Timekeeping in VMs
 http://www.vmware.com/files/pdf/Timekeeping-In-VirtualMachines.pdf
 
+"My First 10 minutes on a server" - securing ubuntu
+http://www.codelitt.com/blog/my-first-10-minutes-on-a-server-primer-for-securing-ubuntu/
+
 # My Read List
 has a bunch of references to look through/curate
 http://the-paper-trail.org/blog/distributed-systems-theory-for-the-distributed-systems-engineer/
 http://book.mixu.net/distsys/
+
