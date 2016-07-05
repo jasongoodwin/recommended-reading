@@ -109,3 +109,6 @@ has a bunch of references to look through/curate
 http://the-paper-trail.org/blog/distributed-systems-theory-for-the-distributed-systems-engineer/
 http://book.mixu.net/distsys/
 
+#Resources
+A huge list of free books
+https://github.com/vhf/free-programming-books
