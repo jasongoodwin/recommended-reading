@@ -98,6 +98,9 @@ Note also that there is a great simplified actor dsl for temporary actors! http:
 Scala-based load testing tool 
 http://gatling.io/
 
+Restful API testing - delays and codes
+http://apps.testinsane.com/rte/
+
 # Courses
 Self paced SICP: http://www.cs61as.org/index.html
 
