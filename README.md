@@ -14,6 +14,9 @@ https://sourcemaking.com/
 
 An online reference covering several important books. It has a summary of Martin Fowler's Refactoring (Code Smells, Refactorings etc) and the Gang Of Four's Design Patterns. It also has a simple UML reference.
 
+### Software Engineering at Google (2017)
+https://arxiv.org/abs/1702.01715
+
 ## Articles
 ### Nine Antipatterns  
 http://sahandsaba.com/nine-anti-patterns-every-programmer-should-be-aware-of-with-examples.html
