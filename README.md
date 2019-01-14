@@ -38,6 +38,11 @@ Comments: https://news.ycombinator.com/item?id=10090806
 
 PostMortems: https://pinboard.in/u:peakscale/t:postmortem/
 
+# Distributed Teams
+
+## Managing Remote Teams
+http://klinger.io/post/180989912140/managing-remote-teams-a-crash-course
+
 # Multicore Computing, Scaling Up
 
 ### 1024 Cores
