@@ -5,6 +5,9 @@ A place to store articles etc that I feel contain important information.
 Mental models I repeatedly find useful
 https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d#.6ho9gcqsd
 
+# Product Management
+https://find.xyz/map/product-management-search-engine
+
 # General Software Development 
 
 These are general articles that I would encourage engineers working beside me to know about and to understand.
