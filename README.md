@@ -10,6 +10,11 @@ https://find.xyz/map/product-management-search-engine
 
 # General Software Development 
 
+## Famous Courses
+Interactive version of SICP:
+https://xuanji.appspot.com/isicp/
+
+
 These are general articles that I would encourage engineers working beside me to know about and to understand.
 ## Useful References
 ###SourceMaking 
