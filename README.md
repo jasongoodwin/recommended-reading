@@ -96,6 +96,12 @@ Discussion about fencing, redlock etc. Thought it was a nice discussion of issue
 Salvatore responded 
 http://antirez.com/news/101
 
+### CRDTs
+https://lars.hupel.info/topics/crdt/01-intro.html
+
+### DDD in Microservices 
+https://medium.com/walmartlabs/building-domain-driven-microservices-af688aa1b1b8
+
 # Scala/Akka
 
 ### Don't Use Actors for Concurrency
